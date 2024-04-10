@@ -11,3 +11,6 @@ Start your Django - React - Tailwind CSS easily with this template.
 ### Important
 - Don't forget to change your Django secret key
 - Add core/.env to your .gitignore file
+
+TODO: COMPLETE core/.env FILE
+TODO: CONTINUE TO REACT - CREATE USER AUTH APP - CREATE EXAMPLE APP

@@ -132,7 +132,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+#.env
+#core/.env
 .venv
 env/
 venv/
@@ -277,7 +278,5 @@ bower_components
 psd
 thumb
 sketch
-
-#core/.env
 
 # End of https://www.toptal.com/developers/gitignore/api/react,django,python
